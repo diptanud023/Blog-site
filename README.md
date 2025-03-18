@@ -20,9 +20,6 @@ Find out how to build an blog site platform.
    - MongoDB
    - Postman
 
-## Live Demo
-
-- [react-full-stack-blog-site](https://react-full-stack-blog-site.herokuapp.com/ "react-full-stack-blog-site")
 
 ## Instructions
 
@@ -90,10 +87,4 @@ Find out how to build an blog site platform.
 
 7. Enjoy!
 
-## Deploy for production
-
-1. Make sure you have created accounts at
-
-   - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register "MongoDB Atlas")
-   - [Heroku](https://signup.heroku.com/login "Heroku")
 
